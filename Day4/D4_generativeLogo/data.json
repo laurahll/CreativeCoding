@@ -1,0 +1,77 @@
+{
+  "daysLogged": 1,
+  "workload": [
+    {
+      "name": "Creative Coding",
+      "color": [15, 71, 242],
+      "deadline": "46",
+      "totalHours": 80,
+      "tasks": [
+        {
+          "name": "Project Report",
+          "type": "analytic"
+        },
+        {
+          "name": "Exercise Poster Design",
+          "type": "creative"
+        }
+      ]
+    },
+    {
+      "name": "Intership Applications",
+      "color": [7, 242, 131],
+      "deadline": "168",
+      "totalHours": 124,
+      "tasks": [
+        {
+          "name": "More Applications",
+          "type": "analytic"
+        }
+      ]
+    },
+    {
+      "name": "Job Interview",
+      "color": [242, 50, 62],
+      "deadline": "32",
+      "totalHours": 0,
+      "tasks": [
+        {
+          "name": "Redesign Otto",
+          "type": "creative"
+        }
+      ]
+    },
+    {
+      "name": "Designconcept",
+      "color": [4,199,242],
+      "deadline": "0",
+      "totalHours": 130,
+      "tasks": [
+        {
+          "name": "Project Documentation",
+          "type": "analytic"
+        },
+        {
+          "name": "Website",
+          "type": "creative"
+        }
+      ]
+    },
+    {
+      "name": "Interaction Design - Space",
+      "color": [242,231,68],
+      "deadline": "672",
+      "totalHours": 40,
+      "tasks": [
+        {
+          "name": "Sick Laser",
+          "type": "analytic"
+        },
+        {
+          "name": "Promo Video",
+          "type": "creative"
+        }
+      ]
+    }
+  ]
+}

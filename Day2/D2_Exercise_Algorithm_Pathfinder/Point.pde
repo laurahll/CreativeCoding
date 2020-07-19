@@ -6,8 +6,4 @@ class Point {
     row=y;
     column=x;
   }
-  //Point() { 
-  //  row=0;
-  //  column=0;
-  //}
 }
